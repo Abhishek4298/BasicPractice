@@ -67,7 +67,10 @@ for (const key in myCar) {
 console.log("44444444", myCar.hasOwnProperty("color")); 
 console.log("55555555",Object.keys(myCar.myBike));
 console.log("66666666",Object.values(myCar)); 
-console.log("77777777", Object.getOwnPropertyNames(myCar));  //return property names
+console.log("77777777", Object.getOwnPropertyNames(myCar));
 console.log("88888888", Object.entries(myCar));
 console.log("99999",myCar.myBike); //return property names of second object 
+
+
+
 
