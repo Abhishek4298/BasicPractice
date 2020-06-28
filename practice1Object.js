@@ -1,13 +1,13 @@
 // Object and accessing its property(attriibutes)
 
 //Object methods: 
-/*
-Object.keys(myObjName)  //return property(keys) names
-Object.values(myObjName)//return property(keys) values
-myObjName.hasOwnProperty("attribute") //return boolean value true false
-Object.entries(myObjName)  //returns arrays of an given object
-Object.getOwnPropertyNames(myObjName) //return property names
-*/
+	/*
+	Object.keys(myObjName)  //return property(keys) names
+	Object.values(myObjName)//return property(keys) values
+	myObjName.hasOwnProperty("attribute") //return boolean value true false
+	Object.entries(myObjName)  //returns arrays of an given object
+	Object.getOwnPropertyNames(myObjName) //return property names
+	*/
 
 //loop with object
 /*
